@@ -1,0 +1,32 @@
+{
+  "id": "1a06f0da-5a4d-4a2f-bce2-c04530adac17",
+  "name": "Aptean Foundation Layer for Food and Beverage",
+  "publisher": "Aptean",
+  "version": "2603.0.312222.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "idRanges": [
+    {
+      "from": 70218800,
+      "to": 70218920
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "16.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
